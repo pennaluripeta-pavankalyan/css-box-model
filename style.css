@@ -1,0 +1,39 @@
+.card{
+    height:200px;
+    width: 200px;
+    border: 2px solid blueviolet;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px;
+}
+.inner-card{
+    height: 100px;
+    width:100px;
+    border:2px solid red;
+    margin: auto;
+    border-radius: 50px;
+
+}
+.parent{
+    display: flex;
+    flex-wrap:wrap;
+}
+#pavan{
+    background-color: antiquewhite;
+}
+#loki{
+    background-color:aqua;
+}
+#kalyan{
+    background-color:blue;
+}
+#hexa{
+    background-color:blueviolet;
+}
+#ps1{
+    background-color:red;
+
+}
+#ps2{
+    background-color: greenyellow;
+}
